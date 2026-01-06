@@ -1,16 +1,41 @@
-## Hi there 👋
+## 👋 Hi, I'm Nebirr
 
-<!--
-**Nebirr/Nebirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm primarily working with **C++** and I'm especially interested in
+**camera control, computer vision, and system-level software development**.
 
-Here are some ideas to get you started:
+My focus is on writing **clean, understandable code** and building
+projects that interact with **real devices and real constraints**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Technical Focus
+- C++ (C++17 / C++20)
+- Camera & device control
+- OpenCV
+- CMake
+- Multithreading & basic performance considerations
+- Cross-platform development (Windows / Linux)
+
+---
+
+### 🚀 Selected Projects
+
+- **Camera-Control**  
+  C++ application for camera control, live streaming and image capture.  
+  Focus on device interaction, modular architecture and extendability.
+
+- **Atlas AI**  
+  Desktop application with a modular architecture, release builds and
+  practical integration of multiple subsystems.
+
+---
+
+### 🎯 Goal
+Entry-level position in **C++ development**, preferably in the area of
+**camera systems, computer vision or system-near software**.
+
+---
+
+### 📌 Notes
+I am continuously improving my projects and using GitHub as a place to
+document my learning and practical work.
