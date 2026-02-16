@@ -1,41 +1,45 @@
-## 👋 Hi, I'm Nebirr
+# 👋 Hi, I'm Nebirr (Marcel)
 
-I'm primarily working with **C++** and I'm especially interested in
-**camera control, computer vision, and system-level software development**.
+**Apprentice Software Developer | C++ Enthusiast | Infrastructure Explorer**
 
-My focus is on writing **clean, understandable code** and building
-projects that interact with **real devices and real constraints**.
+I am an aspiring **Trainee in IT for Application Development** with a deep passion for system-level programming and real-time monitoring. I don't just write code; I architect the infrastructure that powers it.
+
+---
+
+### 🔬 The Lab (Live Project)
+I maintain my own server infrastructure, monitored by a custom-built **C++ Process WatchGuard**.
+- **Live Dashboard:** [nebirrs-lab.de](https://nebirrs-lab.de) 🚀
 
 ---
 
 ### 🔧 Technical Focus
-- C++ (C++17 / C++20)
-- Camera & device control
-- OpenCV
-- CMake
-- Multithreading & basic performance considerations
-- Cross-platform development (Windows / Linux)
+- **Languages:** C++ (C++17/20), Python (for AI/Automation)
+- **Frameworks & Tools:** OpenCV, CMake, Multithreading
+- **Infrastructure:** Windows Server Management, Process Monitoring, Network Security
+- **Goal:** Mastering clean, performant code for real-world hardware and system constraints.
 
 ---
 
-### 🚀 Selected Projects
+### 🚀 Key Projects
 
-- **Camera-Control**  
-  C++ application for camera control, live streaming and image capture.  
-  Focus on device interaction, modular architecture and extendability.
+#### [Camera-Control](https://github.com/Nebirr/Camera-Control)
+C++ application for camera control and live streaming.
+*Focus: Device interaction, modular architecture, OpenCV integration.*
 
-- **Atlas AI**  
-  Desktop application with a modular architecture, release builds and
-  practical integration of multiple subsystems.
+#### [Atlas AI](https://github.com/Nebirr/Atlas-KI)
+Modular desktop application integrating multiple subsystems and AI-driven logic.
 
----
-
-### 🎯 Goal
-Entry-level position in **C++ development**, preferably in the area of
-**camera systems, computer vision or system-near software**.
+#### [Process WatchGuard (Coming Soon)]
+My custom C++ tool that ensures my game servers and web services stay online 24/7. It features Discord integration and a self-healing restart logic.
 
 ---
 
-### 📌 Notes
-I am continuously improving my projects and using GitHub as a place to
-document my learning and practical work.
+### 📬 Connect with me
+- **Portfolio:** [nebirrs-lab.de](https://nebirrs-lab.de)
+- **Email:** info@nebirrs-lab.de
+- **Discord:** Nebirr
+
+---
+
+### 📊 GitHub Stats
+![Nebirrs GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nebirr&show_icons=true&theme=tokyonight)
