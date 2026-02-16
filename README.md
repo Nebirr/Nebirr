@@ -37,7 +37,7 @@ My custom C++ tool that ensures my game servers and web services stay online 24/
 ### 📬 Connect with me
 - **Portfolio:** [nebirrs-lab.de](https://nebirrs-lab.de)
 - **Email:** info@nebirrs-lab.de
-- **Discord:** Nebirr
+- **Discord:** ⛥Nebirr⛥
 
 ---
 
