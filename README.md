@@ -22,10 +22,6 @@ I maintain my own server infrastructure, monitored by a custom-built **C++ Proce
 
 ### 🚀 Key Projects
 
-#### [Camera-Control](https://github.com/Nebirr/Camera-Control)
-C++ application for camera control and live streaming.
-*Focus: Device interaction, modular architecture, OpenCV integration.*
-
 #### [Atlas AI](https://github.com/Nebirr/Atlas-KI)
 Modular desktop application integrating multiple subsystems and AI-driven logic.
 
