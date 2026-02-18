@@ -29,7 +29,7 @@ C++ application for camera control and live streaming.
 #### [Atlas AI](https://github.com/Nebirr/Atlas-KI)
 Modular desktop application integrating multiple subsystems and AI-driven logic.
 
-#### [Process WatchGuard (Coming Soon)]
+#### [ServerCheck 🛡️ (Universal C++ WatchGuard)](https://github.com/Nebirr/ServerCheck)
 My custom C++ tool that ensures my game servers and web services stay online 24/7. It features Discord integration and a self-healing restart logic.
 
 ---
