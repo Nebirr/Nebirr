@@ -22,12 +22,21 @@ I maintain my own server infrastructure, monitored by a custom-built **C++ Proce
 
 ### 🚀 Key Projects
 
-#### [Atlas AI](https://github.com/Nebirr/Atlas-KI)
-Modular desktop application integrating multiple subsystems and AI-driven logic.
+**ServerWatchGuard 🛡️**
+* Flagship Project | Windows Service
+A robust C++ system service engineered for 24/7 infrastructure monitoring. It ensures maximum uptime for game servers (Valheim) and web services (Nginx).
 
-#### [ServerCheck 🛡️ (Universal C++ WatchGuard)](https://github.com/Nebirr/ServerCheck)
-My custom C++ tool that ensures my game servers and web services stay online 24/7. It features Discord integration and a self-healing restart logic.
+* Tech: Win32 API, Session 0 Isolation, Hot-Reload, Safety-Threshold Logic.
 
+* Successor to: ServerCheck (Migration from Console App to native Service).
+
+**Atlas AI**
+* Modular AI Integration
+A desktop application architecture designed to unify multiple AI subsystems. It focuses on modular logic and automated desktop workflows using C++ and Python integration.
+
+**ServerCheck (Legacy)**
+* Archived Proof-of-Concept
+The original C++ console application that served as the foundation for my monitoring logic. This project is now archived as it has been replaced by the more advanced ServerWatchGuard.
 ---
 
 ### 📬 Connect with me
